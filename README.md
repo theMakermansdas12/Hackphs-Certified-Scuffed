@@ -1,2 +1,2 @@
 # Hackphs-Certified-Scuffed
-Our code for the Certfied Succefed team project 
+Our code for the Certfied Scuffed team project 
